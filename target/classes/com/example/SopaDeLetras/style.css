@@ -1,0 +1,4 @@
+.root {
+    -fx-background-image: url('word_guess_background.png');
+    -fx-background-size: cover;
+}
